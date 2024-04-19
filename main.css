@@ -1,0 +1,176 @@
+
+body{
+  background-image: url(./photo-1557683304-673a23048d34.avif);
+}
+#i1{
+    width: 80px;
+    height: 80px;   
+}
+#i2{
+    width: 120px;
+    height: 80px;
+    position: absolute;
+    right: 1cm;
+    top: 8px;
+   
+}
+#i3{
+        width: 150px;
+        height: 150px; 
+        align-items: center;  
+       justify-content: center;
+}
+#searchInput{
+    text-align: center;
+    justify-content: center;
+
+    
+}
+
+
+  .topnav  {
+    float: left;
+    color: #f1f3f5;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 20px;
+    background-color: rgb(215, 245, 133);
+    position: absolute;
+    top: 1050px;
+    right: 17cm;
+    margin-left: 20px;
+    
+  }
+  
+        h1{
+            text-align: center;
+            background-color: #8ecff8;
+        }
+
+ .img1{
+  align-items: center;  
+  justify-content: center; 
+  position:absolute ;
+  left: 3cm;
+  top: 300px;
+ }
+ .tt1{
+  position: absolute;
+  left: 4cm;
+  top: 250px;
+ }
+
+.desk1{
+ position: absolute;
+ left: 3cm;
+ top: 540px;
+}
+ .skill1{
+  position: absolute;
+  left: 3cm;
+  top: 500px;}
+ 
+ .skill4{
+  position: absolute;
+  left: 3cm;
+  top: 580px;
+ }
+ .skill7{
+  position: absolute;
+  left: 3cm;
+  top: 620px;
+ }
+ 
+ .img2{
+  align-items: center;  
+  justify-content: center; 
+  position:absolute ;
+  right: 16cm;
+  top: 300px;
+ }
+ .tt2{
+  position: absolute;
+  top: 250px;
+  right: 18cm;
+ }
+ .desk2{
+  position: absolute;
+ right: 18cm;
+  top: 540px;
+ }
+  .skill2{
+   position: absolute;
+   right: 18cm;
+   top: 500px;}
+  
+  .skill5{
+   position: absolute;
+   right: 18cm;
+   top: 580px;
+  }
+  .skill8{
+   position: absolute;
+   right: 18cm;
+   top: 620px;
+  }
+  
+ .img3{
+  align-items: center;  
+  justify-content: center; 
+  position:absolute ;
+  right: 4cm;
+  top: 300px;
+ }
+ .tt3{
+  position: absolute;
+  top: 250px;
+  right: 5cm;}
+  .desk3{
+    position: absolute;
+    right:5cm;
+    top: 540px;
+   }
+    .skill3{
+     position: absolute;
+     right: 5cm;
+     top: 500px;}
+    
+    .skill6{
+     position: absolute;
+     right: 5cm;
+     top: 580px;
+    }
+    .skill9{
+     position: absolute;
+     right: 5cm;
+     top: 620px;
+    }
+    
+ .inp{
+  justify-content: center;
+  align-items: center; 
+  position:absolute ;
+  right: 17cm;
+  top: 30px;
+ }
+ #copy{
+  width: 0.1px;
+  height: 0.1px;
+  position:absolute ;
+  left: 3cm;
+  top: 1050px;
+ }
+ #fb{
+  width: 0.1px;
+  height: 0.1px;
+  position:absolute ;
+  right: 5.5cm;
+  top: 1050px;
+ }
+ #lin{
+  width: 0.1px;
+  height: 0.1px;
+  position:absolute ;
+ right: 7cm;
+  top: 1050px;
+ }
