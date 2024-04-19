@@ -108,12 +108,4 @@ $('.img2').on({
 $('.remove').on('click',function(){
 $('.job1').remove()
 })
-/*function contains(selector, text) {
-  var elements = document.querySelectorAll(selector);
- return filter (elements, function(element,i){
-      return element.textContent.includes(text);
-  });
-}
-$('.link-about').click(function(){
-  $('.my-div').load('about-page.html');
- });*/
+
